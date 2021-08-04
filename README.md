@@ -5,7 +5,12 @@
 I'm a Entry level Web developer, i love create awesomes web designs, Oh! i can say that, the graphic part is my area. I have some designs to show you, if you're interesed.
 In this moment, i take class at ITLA, Instituto Tecnológico de las Americas, Dom. Rep. I'm in my third period.
 
-Skills: HTML / CSS / JS / STYLUS
+Skills: 
+
+ - HTML 
+ - CSS 
+ - JS 
+ - STYLUS
 
 I don't have much experiences but, i want to turn in a big programmer! :D
 Nice to meet you!
