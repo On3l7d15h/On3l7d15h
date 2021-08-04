@@ -25,6 +25,9 @@ I'm Onell Dishmey, i'm a Entry Level Web developer! I don't have experince, but 
     - Asp.net
     - C#
 
+I don't have much experiences but, i want to turn in a big programmer! :D
+Nice to meet you!
+
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -32,6 +35,3 @@ I'm Onell Dishmey, i'm a Entry Level Web developer! I don't have experince, but 
 </a>
 <br>
 
-
-I don't have much experiences but, i want to turn in a big programmer! :D
-Nice to meet you!
