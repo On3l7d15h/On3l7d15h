@@ -24,5 +24,6 @@ Nice to meet you!
 </center>
 
 ## Learning:
-In this moment... nothing... yet :D
+[<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="svelte" height="40">]()
+
 
