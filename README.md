@@ -25,7 +25,7 @@ Nice to meet you!
 </center>
 
 ## Learning:
-[<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" height="40">]()
+[<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="40">]()
 
 
 
