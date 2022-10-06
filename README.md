@@ -26,6 +26,8 @@ Nice to meet you!
 
 ## Learning:
 [<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="40">]()
+[<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="flutter" height="40">]()
+ 	
 
 
 
