@@ -1,4 +1,4 @@
-<img src="https://imgs.search.brave.com/5IqIdNp_033RJZhv9hO60ljf4J6YySxYey4sOd70v7o/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC80MC8xNS9i/YW5uZXItc29mdHdh/cmUtZGV2ZWxvcG1l/bnQtcHJvZ3JhbW1p/bmctd2ViLXNpdGUt/dmVjdG9yLTM4MDA0/MDE1LmpwZw" width="1024px" />
+<img src="https://www.nextu.com/blog/wp-content/uploads/sites/4/2017/02/atp-21360-2022-06-nu-q2-generics-2022-seo-images-10-design-v18.jpg" width="1024px" />
 
 # Hi there 👋, I'm Onell Dishmey
 &nbsp;
@@ -8,7 +8,9 @@ I'm an Full Stack Web developer who loves to create awesome web designs and web 
 
 &nbsp;
 ## 🛠 Technologies: 
+```
 Here, are the technologies I feel comfortable with: ✨👨‍💻
+```
 
 &nbsp;
 ### **Active:**
@@ -23,6 +25,8 @@ In this section, I actually list all the technologies which I use and feel comfo
 | `BootstrapCSS` | [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="40">]() | `Markdown` | [<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" height="40">]() |
 | `TailwindCSS` | [<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" height="40">]() | `Flask` | [<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="40">]() |
 | `Ionic` | [<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="40"/>]() | `C++` | [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"/>]() |
+| `Python` | [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>]() | | |
+
 
 &nbsp;
 ### **Databases:**
@@ -33,7 +37,7 @@ In this section, I listed the databases I use for my projects, and even I used t
 | :-------- | :------ | :-------- | :------ |
 | `MYSQL` | [<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" height="40" />]() | `MONGODB` | [<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" height="40">]() |
 | `SQLite` | [<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="40">]() | `Supabase` | [<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="sqlite" height="40">]() |
-| `Firebase` | `No Badge` | `Turso` | `No Badge` |
+| `Firebase` |  | `Turso` |  |
 
 
 &nbsp;
@@ -46,12 +50,12 @@ In this section, I listed the pasive technologies, meaning technologies I used t
 | :-------- | :------ | :-------- | :------ |
 | `SvelteJS` | [<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="svelte" height="40">]() | `StylusCSS` | [<img src="https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white" alt="stylus" height="40">]() |
 | `C#` | [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="sqlite" height="40">]() | `Java` | [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="sqlite" height="40">]() |
+| `.NET` | [<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" height="40">]() | `Flutter & Flet` | [<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" height="40">]() |
 
 
 
-
+&nbsp;
 ## Stats
-
 
 <center>
   <div>
@@ -60,6 +64,3 @@ In this section, I listed the pasive technologies, meaning technologies I used t
   </div>
 </center>
 
-## Learning:
-
-So far... nothing... yet. 🔥
